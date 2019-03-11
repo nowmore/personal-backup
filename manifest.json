@@ -1,0 +1,9 @@
+{
+    "name": "com.fuck.run",
+    "description": "allowed chrome extention to run aria2",
+    "path": "C:\\Users\\when-\\aria2\\runAria2.exe",
+    "type": "stdio",
+    "allowed_origins": [
+      "chrome-extension://djcghbekabhnjejbhkoehmbiniojjhih/"
+    ]
+  }

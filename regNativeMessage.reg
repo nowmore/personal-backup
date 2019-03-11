@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\aprotocol]
+@="aprotocol Protocol"
+"URL Protocol"=""
+
+[-HKEY_CLASSES_ROOT\aprotocol\DefaultIcon]
+@="C:\\WINDOWS\\SYSTEM32\\WSCRIPT.EXE"
+
+[-HKEY_CLASSES_ROOT\aprotocol\shell]
+@=""
+
+[-HKEY_CLASSES_ROOT\aprotocol\shell\open]
+@=""
+
+[-HKEY_CLASSES_ROOT\aprotocol\shell\open\command]
+@="\"C:\\WINDOWS\\SYSTEM32\\WSCRIPT.EXE\" \"C:\\Users\\when-\\aria2\\run.vbs\" "
+
+[HKEY_CURRENT_USER\Software\Google\Chrome\NativeMessagingHosts\com.fuck.run]
+@="C:\\Users\\when-\\aria2\\manifest.json"
+
+
